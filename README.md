@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Data4nalyst&label=Profile%20views&color=0e75b6&style=flat" alt="Data4nalyst"/>
+  <img src="https://komarev.com/ghpvc/?username=al-haritsa&label=Profile%20views&color=0e75b6&style=flat" alt="al-haritsa"/>
 </p>
 
 --- 
@@ -79,14 +79,14 @@ I'm specializing in Artificial Intelligence and Data Engineering. I'm currently 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Data4nalyst&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Data4nalyst&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=al-haritsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-haritsa&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Data4nalyst&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-haritsa&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
